@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋 I'm Glency Tirao, a Software Engineer from Philippines 🇵🇭</div>  
+### <div align="center">Hi 👋 I'm Glency Tirao, a Software Engineer from [Betterteem](https://www.betterteem.com/)</div>  
   
 
 <div align="center">
