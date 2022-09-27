@@ -74,12 +74,14 @@
 
 
 
+### Music 🎧  
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=darko05.gt&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
 
 
+### GitHub Stats 📈  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glency-betterteem&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=glency-betterteem&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
